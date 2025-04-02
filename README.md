@@ -36,11 +36,20 @@ Welcome to the Simon Says Game! This is a classic memory game where you have to 
    ```
 3. Open the index.html file in your web browser to play the game.
 
+## Live Demo
+
+You can also play the game live on my website: [Simon Says Game](https://radheshpai87.github.io/Simon%20Game/index.html)
+
 ## Contributing
+
 Feel free to fork this repository and make your own improvements or customizations. Pull requests are welcome!
+
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Contact
+
 For any questions or feedback, feel free to reach out to me at radheshpai802@gmail.com.
 
-Enjoy the game!
+**Enjoy the game!**
